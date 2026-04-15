@@ -27,12 +27,11 @@
 ---
 
 ### 🌳 About Me 🌿
-👋 Hi, I'm Crispy Codes!
+👋 Hi, I'm Cris!
 
-- 🔭 I'm working as a Frontend Developer specializing in React, Next.js, Javascript/TypeScript, crafting pixel-perfect web experiences and building responsive, accessible applications.
-
+- 🔭 I'm working as a Frontend Developer specializing in React, Next.js, Javascript/TypeScript, (currently venturing into Svelte + SvelteKit) and just having fun on the web
 - 🌱 Exploring Technical Content Writing and UI/UX best practices.
 
-- ⚡ In my free time, I'm gaming (PUBG Mobile, COD, FIFA) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and building fun projects with Flutter <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="30">.
+- ⚡ In my free time, I'm gaming (PUBG Mobile, COD Mobile, FIFA) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and building fun projects.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/turyasiima-crispus-465b4123b)
