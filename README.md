@@ -41,7 +41,7 @@
 🪵🕰️🕰️🕰️🕰️🕰️🔨
 
 ### 🔨 Languages and Tools 🛠️  
-<div>
+<div style="display: flex">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714556222178" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
