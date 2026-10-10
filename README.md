@@ -27,7 +27,7 @@
 ---
 
 ### 🌳 About Me 🌿
-👋 Hi, I'm Cris!
+👋 Hi, I'm Cris!.
 
 - 🔭 I'm working as a Frontend Developer specializing in React, Next.js, Javascript/TypeScript, (currently venturing into Svelte + SvelteKit) and just having fun on the web
 - 🌱 Exploring Technical Content Writing and UI/UX best practices.
